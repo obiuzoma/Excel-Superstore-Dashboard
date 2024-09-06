@@ -4,10 +4,10 @@
 
 This Excel dashboard analysis is aimed to aid super store decision-makers with data deriven insight, forstering strategic growth and competitiveness in the sales market
 
-To enhance the understanding of sales dynamic and performance
-Identification of geographical area with high and low sales potentials
-Insights to product performance, aiding in inventory and marketing decisions
-Actionable recommendations for optimizing sales and profits across various dimensions.
+-To enhance the understanding of sales dynamic and performance
+-Identification of geographical area with high and low sales potentials
+-Insights to product performance, aiding in inventory and marketing decisions
+-Actionable recommendations for optimizing sales and profits across various dimensions.
 
 **KPI (Key Performance Indicator)**
 
